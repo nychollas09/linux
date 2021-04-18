@@ -13,3 +13,7 @@ Seja dentro de uma pasta específica ou dentro de todo SO
 | 5                   | 101                | :heavy_check_mark: | :x:                | :heavy_check_mark: |
 | 6                   | 110                | :heavy_check_mark: | :heavy_check_mark: | :x:                |
 | 7                   | 111                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
+<br>
+
+# Nomenclatura das permissões
