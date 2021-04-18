@@ -17,3 +17,5 @@ Seja dentro de uma pasta específica ou dentro de todo SO
 <br>
 
 # Nomenclatura das permissões
+
+<img src="https://raw.githubusercontent.com/nychollas09/linux/main/terminal_no_linux/.assets/permissoes.png">
